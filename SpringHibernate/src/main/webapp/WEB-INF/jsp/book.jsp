@@ -4,6 +4,10 @@
 <html>
 <head>
     <title>Spring 3 MVC Hibernate - Book CRUD</title>
+     <meta charset="UTF-8">
+	<meta name="description" content="Spring Hibernate CRUD">
+	<meta name="keywords" content="SpringMVC, Hibernate, MYSQL CRUD">
+	<meta name="author" content="blvprasad">
     <style type="text/css">
         body {
             font-family: verdana;
